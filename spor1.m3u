@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="185023" tvg-id="" tvg-name="TR:Bein Sports 3 HD" group-title="TR1 | beIN SPORT ⚽",TR:Bein Sports 3 HD
+#EXTINF:-1 group-title="TR1 | beIN SPORT ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/ts
-#EXTINF:-1 xui-id="185023" tvg-id="" tvg-name="TR:Bein Sports 3 HD"  group-title="TR1 | beIN SPORT ⚽",TR:Bein Sports 3 HD
+#EXTINF:-1 group-title="TR1 | beIN SPORT ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/ts
-#EXTINF:-1 xui-id="185023" tvg-id="" tvg-name="TR:Bein Sports 3 HD"  group-title="TR | beIN SPORT ⚽",TR:Bein Sports 3 HD
+#EXTINF:-1 group-title="TR | beIN SPORT ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/ts
-#EXTINF:-1 xui-id="185023" tvg-id="" tvg-name="TR:Bein Sports 3 HD"  group-title="TR | beIN SPORT ⚽",TR:Bein Sports 3 HD
+#EXTINF:-1 group-title="TR | beIN SPORT ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/ts
-#EXTINF:-1 xui-id="185023" tvg-id="" tvg-name="TR:Bein Sports 3 HD"  group-title="TR | beIN SPORT ⚽",TR:Bein Sports 3 HD
+#EXTINF:-1 group-title="TR | beIN SPORT ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/ts
