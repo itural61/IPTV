@@ -1,183 +1,186 @@
 #EXTM3U
-#EXTINF:-1,TR: Bein 1
+
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
+#EXTM3U
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/601/playlist.m3u8
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5849.m3u8
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/139892.m3u8
-#EXTINF:-1,TR2: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5850.m3u8
-#EXTINF:-1,TR2: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/155217.m3u8
-#EXTINF:-1,TR2: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5853.m3u8
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/155316.m3u8
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5854.m3u8
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5849.m3u
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/139892.m3u
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5850.m3u
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/155217.m3u
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAy-KPmqhjiVjN-D6BrY0yiD/m3u8
-#EXTINF:-1,TR: Bein 1
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAwGRr-SMOD8xua-JNqA8Hps/m3u8
-#EXTINF:-1,TR: Bein 1 YDK
+#EXTINF:-1 group-title="TR | beIN SPORT 1 ⚽",TR:Bein Sports 1 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/601/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/602/playlist.m3u8
-#EXTINF:-1,TR: Bein 2 YDK
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/602/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/104794.m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5855.m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5856.m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5857.m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/104794.m3u
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5855.m3u
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5856.m3u
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hyljj0WoauQcxqWlMVK-cG893/m3u8
-#EXTINF:-1,TR: Bein 2
+#EXTINF:-1 group-title="TR | beIN SPORT 2 ⚽",TR:Bein Sports 2 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAxau1HJZr5TYl0ebWTK94zd/m3u8
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/603/playlist.m3u8
-#EXTINF:-1,TR: Bein 3 YDK
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/603/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5858.m3u8
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5859.m3u8
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5860.m3u8
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5858.m3u
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5859.m3u
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/m3u8
-#EXTINF:-1,TR: Bein 3
+#EXTINF:-1 group-title="TR | beIN SPORT 3 ⚽",TR:Bein Sports 3 HD
 http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAwY9Ys7ajzDXWCAd0N2SOu2/m3u8
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/604/playlist.m3u8
-#EXTINF:-1,TR: Bein 4 YDK
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/604/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5861.m3u8
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5862.m3u8
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5863.m3u8
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/75999.m3u8
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5861.m3u
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5863.m3u
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/75999.m3u
-#EXTINF:-1,TR: Bein 4
+#EXTINF:-1 group-title="TR | beIN SPORT 4 ⚽",TR:Bein Sports 4 HD
 http://247810158493747077.ofk0601.xyz:80/live/fe928238/XTXUtMJhkk/747077.m3u8
-#EXTINF:-1,TR: Bein 5
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/705/playlist.m3u8
-#EXTINF:-1,TR: Bein 5 YDK
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/705/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein 5
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/163407.m3u8
-#EXTINF:-1,TR: Bein 5
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/163408.m3u8
-#EXTINF:-1,TR: Bein 5
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5864.m3u8
-#EXTINF:-1,TR: Bein 5
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/163407.m3u
 #EXTINF:-1,TR: Bein 5
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/163408.m3u
-#EXTINF:-1,TR: Bein Max 1
+#EXTINF:-1 group-title="TR | beIN SPORT 5 ⚽",TR:Bein Sports 5 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/805/playlist.m3u8
-#EXTINF:-1,TR: Bein Max 1 ydk
+#EXTINF:-1 group-title="TR | beIN SPORT Max 1 ⚽",TR:Bein Sports Max 1 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/805/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein Max 2
+#EXTINF:-1 group-title="TR | beIN SPORT Max 2 ⚽",TR:Bein Sports Max 2 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/806/playlist.m3u8
-#EXTINF:-1,TR: Bein Max 2 ydk
+#EXTINF:-1 group-title="TR | beIN SPORT Max 2 ⚽",TR:Bein Sports Max 2 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/806/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Bein Max 2
+#EXTINF:-1 group-title="TR | beIN SPORT Max 2 ⚽",TR:Bein Sports Max 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/5865.m3u8
-#EXTINF:-1,TR: Bein Max 2
+#EXTINF:-1 group-title="TR | beIN SPORT Max 2 ⚽",TR:Bein Sports Max 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/5865.m3u
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/3450/playlist.m3u8
-#EXTINF:-1,TR: S Spor 1 Ydk
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/3450/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/170782.m3u8
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/6387.m3u8
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/6388.m3u8
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/6387.m3u8
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/6388.m3u
-#EXTINF:-1,TR: S Spor 1
+#EXTINF:-1 group-title="TR | S SPOR 1 ⚽",TR:S Spor 1 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/124753.m3u
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/3451/playlist.m3u8
-#EXTINF:-1,TR: S Spor 2 Ydk
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/3451/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/6389.m3u8
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/6390.m3u8
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 http://drquincy.org:8080/live/mlh0240/mlh.90/124753.m3u8
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/6389.m3u
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/6390.m3u
-#EXTINF:-1,TR: S Spor 2
+#EXTINF:-1 group-title="TR | S SPOR 2 ⚽",TR:S Spor 2 HD
 http://vip.torktv.org:2095/live/timurhan1453/rfM8mzBhfEDG/124753.m3u
-#EXTINF:-1,TR: Smart Spor 1
+#EXTINF:-1 group-title="TR | Smart SPOR 1 ⚽",TR:Smart Spor 1 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/102/playlist.m3u8
-#EXTINF:-1,TR: Smart Spor 1 ydk
+#EXTINF:-1 group-title="TR | Smart SPOR 1 ⚽",TR:Smart Spor 1 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/102/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Smart Spor 2
+#EXTINF:-1 group-title="TR | Smart SPOR 2 ⚽",TR:Smart Spor 2 HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/103/playlist.m3u8
-#EXTINF:-1,TR: Smart Spor 2 ydk
+#EXTINF:-1 group-title="TR | Smart SPOR 2 ⚽",TR:Smart Spor 2 HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/103/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Tivibu Spor  
+#EXTINF:-1 group-title="TR | Tivibu SPOR  ⚽",TR:Tivibu Spor  HD 
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/605/playlist.m3u8
-#EXTINF:-1,TR: Tivibu Spor  ydk
+#EXTINF:-1 group-title="TR | Tivibu SPOR  ⚽",TR:Tivibu Spor  HD 
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/605/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Tivibu Spor 1
+#EXTINF:-1 group-title="TR | Tivibu SPOR 1  ⚽",TR:Tivibu Spor 1  HD 
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/606/playlist.m3u8
-#EXTINF:-1,TR: Tivibu Spor 1 ydk
+#EXTINF:-1 group-title="TR | Tivibu SPOR 1  ⚽",TR:Tivibu Spor 1  HD 
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/606/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Tivibu Spor 2
+#EXTINF:-1 group-title="TR | Tivibu SPOR 2  ⚽",TR:Tivibu Spor 2  HD 
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/607/playlist.m3u8
-#EXTINF:-1,TR: Tivibu Spor 2 ydk
+#EXTINF:-1 group-title="TR | Tivibu SPOR 2  ⚽",TR:Tivibu Spor 2  HD 
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/607/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Tivibu Spor 3
+#EXTINF:-1 group-title="TR | Tivibu SPOR 3  ⚽",TR:Tivibu Spor 3  HD 
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/608/playlist.m3u8
-#EXTINF:-1,TR: Tivibu Spor 3 ydk
+#EXTINF:-1 group-title="TR | Tivibu SPOR 3  ⚽",TR:Tivibu Spor 3  HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/608/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Tivibu Spor 4
+#EXTINF:-1 group-title="TR | Tivibu SPOR 4  ⚽",TR:Tivibu Spor 4  HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/609/playlist.m3u8
-#EXTINF:-1,TR: Tivibu Spor 4 ydk
+#EXTINF:-1 group-title="TR | Tivibu SPOR 4  ⚽",TR:Tivibu Spor 4  HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/609/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1,TR: Exxen
+#EXTINF:-1 group-title="TR | Exxen  ⚽",TR:Exxen  HD
 https://uno.1da87064b1b25605.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/4011/playlist.m3u8
-#EXTINF:-1,TR: Exxen ydk
+#EXTINF:-1 group-title="TR | Exxen  ⚽",TR:Exxen  HD
 https://uno.1da87064b1b25605.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/4011/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
 
 
