@@ -77,15 +77,15 @@ http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/48611
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/2507
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="" group-title="Bein Sports Max 2 HD",Bein Sports Max 2 HD
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/2551
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR ",SMART SPOR 
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR",SMART SPOR 
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/5359
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR ",SMART SPOR 
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR",SMART SPOR 
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/728
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR ",SMART SPOR 
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR",SMART SPOR 
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/2583
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR ",SMART SPOR 
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR " tvg-logo="" group-title="SMART SPOR",SMART SPOR 
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/30344
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2" tvg-logo="" group-title="SMART SPOR 2",SMART SPOR 2
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2" tvg-logo="" group-title="SMART SPOR",SMART SPOR 2
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/1017
 #EXTINF:-1 tvg-id="" tvg-name="S SPOR 1" tvg-logo="" group-title="S SPOR 1",S SPOR 1
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/2891
@@ -221,13 +221,13 @@ http://drquincy.org:8080/live/mlh0240/mlh.90/6389.m3u8
 http://drquincy.org:8080/live/mlh0240/mlh.90/6390.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPOR 2" tvg-logo="" group-title="S SPOR 2",S SPOR 2
 http://drquincy.org:8080/live/mlh0240/mlh.90/124753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 1" tvg-logo="" group-title="SMART SPOR 1",SMART SPOR 1
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 1" tvg-logo="" group-title="SMART SPOR",SMART SPOR 1
 https://uno.19bc3725918b8e43.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/102/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 1" tvg-logo="" group-title="SMART SPOR 1",SMART SPOR 1
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 1" tvg-logo="" group-title="SMART SPOR",SMART SPOR 1
 https://uno.19bc3725918b8e43.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/102/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2" tvg-logo="" group-title="SMART SPOR 2",SMART SPOR 2
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2" tvg-logo="" group-title="SMART SPOR",SMART SPOR 2
 https://uno.19bc3725918b8e43.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/103/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2" tvg-logo="" group-title="SMART SPOR 2",SMART SPOR 2
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2" tvg-logo="" group-title="SMART SPOR",SMART SPOR 2
 https://uno.19bc3725918b8e43.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/103/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR " tvg-logo="" group-title="TİVİBU SPOR",TİVİBU SPOR 
 https://uno.19bc3725918b8e43.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/605/playlist.m3u8
@@ -243,7 +243,7 @@ https://uno.19bc3725918b8e43.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/606/a.cf-worker-f
 https://uno.19bc3725918b8e43.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/607/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 2 " tvg-logo="" group-title="TİVİBU SPOR",TİVİBU SPOR 2
 https://uno.19bc3725918b8e43.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/607/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 " tvg-logo="" group-title="TİVİBU SPORR",TİVİBU SPOR 3
+#EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 " tvg-logo="" group-title="TİVİBU SPOR",TİVİBU SPOR 3
 https://uno.19bc3725918b8e43.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/608/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TİVİBU SPOR 3 " tvg-logo="" group-title="TİVİBU SPOR",TİVİBU SPOR 3
 https://uno.19bc3725918b8e43.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/608/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
