@@ -625,27 +625,4 @@ http://hkpremium.vip:8080/live/mustafaozdemir11/8YvafBqmBy7t559/271.m3u8
 http://hkpremium.vip:8080/live/mustafaozdemir11/8YvafBqmBy7t559/116073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPOR 1" tvg-logo="" group-title="S SPOR 2",S SPOR 1- hkp
 http://hkpremium.vip:8080/live/mustafaozdemir11/8YvafBqmBy7t559/295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",112-BEiN SPORT 1 HD- gold
-http://gold.livrexs.xyz:80/live/sCC4gWakRhdC/epBpVVJgMw5c/95984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",113-BEiN SPORT 1 HD- gold
-http://gold.livrexs.xyz:80/live/sCC4gWakRhdC/epBpVVJgMw5c/95985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",114-BEiN SPORT 1 HD- gold
-http://gold.livrexs.xyz:80/live/sCC4gWakRhdC/epBpVVJgMw5c/95986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",115-BEiN SPORT 1 HD- gold
-http://gold.livrexs.xyz:80/live/sCC4gWakRhdC/epBpVVJgMw5c/95987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",116-BEiN SPORT 1 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/1086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",117-BEiN SPORT 1 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/77714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",118-BEiN SPORT 1 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/77459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",119-BEiN SPORT 1 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/1087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",120-BEiN SPORT 1 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/1089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 1",121-BEiN SPORT 1 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/1088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 2",BEiN SPORT 2 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/27661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 2",BEiN SPORT 2 HD- cdn
-http://cdn777fr.online:2086/live/3sde529/4dsh727/80230.m3u8
+
