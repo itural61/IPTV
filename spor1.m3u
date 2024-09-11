@@ -9,6 +9,8 @@ https://uno.19bc3725918b8e43.shop/i/N8xKwGCVNDxPbzV8PRCWL2jH9W/601/playlist.m3u8
 http://drquincy.org:8080/live/mlh0240/mlh.90/5849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",4-BEiN SPORT 1 HD- drq
 http://drquincy.org:8080/live/km0286/km00/5849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",4-BEiN SPORT 1 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/5849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",5-BEiN SPORT 1 HD-3m
 http://3m.thingirl.xyz:8080/Neki/FcGFEyinHo/361367.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",6-BEiN SPORT 1 HD- 3m
@@ -33,6 +35,8 @@ http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/5719.m3u8
 http://drquincy.org:8080/live/mlh0240/mlh.90/5850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",15-BEiN SPORT 1 HD- drq
 http://drquincy.org:8080/live/km0286/km00/5850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",15-BEiN SPORT 1 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/5850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",16-BEiN SPORT 1 HD- sun
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/2849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",17-BEiN SPORT 1 HD- sun
@@ -59,6 +63,14 @@ http://drquincy.org:8080/live/km0286/km00/5853.m3u8
 http://drquincy.org:8080/live/km0286/km00/155316.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",24-BEiN SPORT 1 HD- drq
 http://drquincy.org:8080/live/km0286/km00/5854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",21-BEiN SPORT 1 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/155217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",22-BEiN SPORT 1 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/5853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",23-BEiN SPORT 1 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/155316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",24-BEiN SPORT 1 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/5854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",26-BEiN SPORT 1 HD- sultanbet
 https://uno.19bc3725918b8e43.shop/p/N8xKwGCVNDxPbzV8PRCWL2jH9W/601/a.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",27-BEiN SPORT 1 HD- sultanbet
@@ -78,7 +90,11 @@ http://drquincy.org:8080/live/mlh0240/mlh.90/5855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",5-BEiN SPORT 2 HD- drq
 http://drquincy.org:8080/live/km0286/km00/104794.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",7-BEiN SPORT 2 HD- drq
-http://drquincy.org:8080/live/km0286/km00/5855.m3u8
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/5855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",5-BEiN SPORT 2 HD- drq
+http://drquincy.org:8080/live/hll1212/5Rf7V7ejxyKW/104794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",7-BEiN SPORT 2 HD- drq
+http://drquincy.org:8080/live/mlh0240/mlh.90/5855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",8-BEiN SPORT 2 HD- sun
 http://sun.cos888.xyz:2086/ozantasbekler/26092021ozn/2850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",9-BEiN SPORT 2 HD- 107
