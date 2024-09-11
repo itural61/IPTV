@@ -649,3 +649,26 @@ http://cdn777fr.online:2086/live/3sde529/4dsh727/1088.m3u8
 http://cdn777fr.online:2086/live/3sde529/4dsh727/27661.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1 HD" tvg-logo="" group-title="BEiN SPORT 2",BEiN SPORT 2 HD- cdn
 http://cdn777fr.online:2086/live/3sde529/4dsh727/80230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPOR 1" tvg-logo="" group-title="S SPOR 1",S SPOR 1- cdn
+http://cdn777fr.online:2086/live/3sde529/4dsh727/80249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPOR 1" tvg-logo="" group-title="S SPOR 2",S SPOR 1- cdn
+http://cdn777fr.online:2086/live/3sde529/4dsh727/80250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPOR 1" tvg-logo="" group-title="S SPOR 1",S SPOR 1- cdn
+http://cdn777fr.online:2086/live/3sde529/4dsh727/80251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPOR 1" tvg-logo="" group-title="S SPOR 2",S SPOR 1- cdn
+http://cdn777fr.online:2086/live/3sde529/4dsh727/80252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+" tvg-logo="" group-title="S SPORT PLUS+",S SPORT PLUS+
+http://cdn777fr.online:2086/live/3sde529/4dsh727/80253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+" tvg-logo="" group-title="S SPORT PLUS+",S SPORT PLUS+
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",7-BEiN SPORT 1 HD- tvs
+http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAy-KPmqhjiVjN-D6BrY0yiD/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 1" tvg-logo="" group-title="BEiN SPORT 1",25-BEiN SPORT 1 HD- tvs
+http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAwGRr-SMOD8xua-JNqA8Hps/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",6-BEiN SPORT 2 HD- tvs
+http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hyljj0WoauQcxqWlMVK-cG893/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 2 HD" tvg-logo="" group-title="BEiN SPORT 2",BEiN SPORT 2 HD- tvs
+http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAxau1HJZr5TYl0ebWTK94zd/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 3 HD" tvg-logo="" group-title="BEiN SPORT 3",BEiN SPORT 3 HD
+http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4jS8iKT0qXXDWvkZlL2hylhviZvpzE_Wz8yDv7wJIrRW/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEiN SPORT 3 HD" tvg-logo="" group-title="BEiN SPORT 3",BEiN SPORT 3 HD
+http://tvs.lol:8080/play/DeBPpJGTmUCiJEl-sNWl4rJFBEtTmxoZcRL-oGRFVAwY9Ys7ajzDXWCAd0N2SOu2/m3u8
